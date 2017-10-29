@@ -1,0 +1,3 @@
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4_bis/build/CMakeFiles/rebuild_cache.dir
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4_bis/build/CMakeFiles/edit_cache.dir
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4_bis/build/CMakeFiles/create_frames_salMix.dir

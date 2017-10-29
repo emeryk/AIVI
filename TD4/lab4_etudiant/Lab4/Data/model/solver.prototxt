@@ -1,0 +1,12 @@
+net: "models/bvlc_ChaboNet_PARKINSON_flou_4k/train_val.prototxt"
+test_iter: 15
+test_interval: 62
+base_lr: 0.001
+lr_policy: "fixed"
+display: 229
+max_iter: 11790
+momentum: 0.9
+weight_decay: 0.00004
+snapshot: 62
+snapshot_prefix: "models/bvlc_ChaboNet_PARKINSON_flou_4k/train/train_"
+solver_mode: GPU

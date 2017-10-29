@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4_bis/create_frames_salMix.cpp
+cstdlib
+-
+iostream
+-
+iomanip
+-
+fstream
+-
+string
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4_bis/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/opencv.hpp
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4_bis/opencv2/opencv.hpp
+

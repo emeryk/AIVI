@@ -1,0 +1,4 @@
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4/build/CMakeFiles/rebuild_cache.dir
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4/build/CMakeFiles/edit_cache.dir
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4/build/CMakeFiles/Classification.dir
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4/build/CMakeFiles/Lab4.dir

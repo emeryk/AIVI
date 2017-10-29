@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/net/cremi/elabbe/M2/lab4_etudiant/Lab4/classification.cpp
+caffe/caffe.hpp
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+algorithm
+-
+iosfwd
+-
+memory
+-
+string
+-
+utility
+-
+vector
+-
+
